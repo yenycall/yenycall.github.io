@@ -1,12 +1,11 @@
 ---
-title: Getting Started
+title: SMJ Portfolio
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+  안녕하세요. 열정 개발자 심민지입니다. 나를 소개하는 KEYWORD : "미래지향적" "열정적" "창의적"
+author: Yenycall
+date: 2023-10-15 22:29:00 +0800
+categories: [Portfolio, Main]
+tags: [Initial start]
 pin: true
 media_subpath: '/posts/20180809'
 ---
