@@ -1,4 +1,4 @@
-name: "npm build"
+name: "Build and Deploy"
 on:
   push:
     branches:
@@ -45,16 +45,29 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: |
+          bundle install
+          npm install
+
+      - name: Build assets
+        run: npm run build
+
       - name: Build site
-        run: npm install && npm run build
+        run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: "production"
 
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
-            \-\-disable-external=true \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+            --disable-external \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
