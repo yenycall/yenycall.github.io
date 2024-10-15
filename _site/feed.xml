@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>SMJ commit</title>
+  <title>SMJ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-15T20:15:24+08:00</updated>
+  <updated>2024-10-15T20:21:44+08:00</updated>
   <author>
     <name>심민지</name>
     <uri>http://localhost:4000/</uri>
