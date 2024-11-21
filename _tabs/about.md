@@ -109,10 +109,14 @@ order: 4
 <span class="bold">ITQ</span> Information Technology Qualification <br>
 <span class="gray">국가공인자격증 | 한글, 파워포인트, 엑셀</span>
 
-## Contact
+## Profile <span class="blue-small">프로필</span>
 
 ---
 
+- 심민지 \| 2004. 08. 17
+
+### Contact
+---
 - Email &nbsp;&nbsp;<mailto:yenycall817@gmail.com>
 - Instagram &nbsp;&nbsp;[@yenycall](https://instagram.com/yenycall)
 - GitHub &nbsp;&nbsp;[https://github.com/yenycall](https://github.com/yenycall)
