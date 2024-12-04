@@ -1,12 +1,12 @@
 ---
-title: '[Figma] Grid System'
+title: '[HTML] Grid-Template'
 description: >-
-  피그마로 공부하는 그리드 시스템
+  HTML로 벤토 박스 레이아웃 코드 개발
 by: Yenycall
 date: 2024-12-05
 edited: -- 
-categories: [Work, Design]
-tags: [Work, Design, Figma]
+categories: [Work, Develop]
+tags: [Work, Develop, HTML]
 math: true
 mermaid: true
 image:

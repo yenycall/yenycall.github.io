@@ -17,23 +17,19 @@ tail_includes:
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
-      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
+      <p class="post-desc fw-normal mb-4">{{ page.description }}</p>
     {% endif %}
 
     <div class="post-meta text-muted">
-      <!-- published date -->
+      <!-- published and edited date -->
       <span>
         {{ site.data.locales[lang].post.posted }}
         {% include datetime.html date=page.date tooltip=true lang=lang %}
+        {% if page.edited %}
+          • Edited {% include datetime.html date=page.edited tooltip=true lang=lang %}
+        {% endif %}
       </span>
-
-      <!-- lastmod date -->
-      {% if page.last_modified_at and page.last_modified_at != page.date %}
-        <span>
-          {{ site.data.locales[lang].post.updated }}
-          {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
-        </span>
-      {% endif %}
+      
 
       {% if page.image %}
         {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
@@ -55,24 +51,11 @@ tail_includes:
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
         <span>
-          {% if page.author %}
-            {% assign authors = page.author %}
-          {% elsif page.authors %}
-            {% assign authors = page.authors %}
-          {% endif %}
-
           {{ site.data.locales[lang].post.written_by }}
 
           <em>
-            {% if authors %}
-              {% for author in authors %}
-                {% if site.data.authors[author].url -%}
-                  <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-                {%- else -%}
-                  {{ site.data.authors[author].name }}
-                {%- endif %}
-                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
-              {% endfor %}
+            {% if page.by %}
+              {{ page.by }}
             {% else %}
               <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
             {% endif %}
@@ -172,7 +155,5 @@ tail_includes:
 
       {% include post-sharing.html lang=lang %}
     </div>
-    <!-- .post-tail-bottom -->
   </div>
-  <!-- div.post-tail-wrapper -->
 </article>
