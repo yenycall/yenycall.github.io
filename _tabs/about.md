@@ -146,12 +146,7 @@ order: 4
 
 2004\. 08\. 17\.
 
-> ### Education <span class="blue-small">학력</span>
-> ---
->
-> <span class="bold">계원예술대학교</span> 재학 <br> <span class="small2">디지털미디어디자인 학과</span> | 2023.03 - 2025.06 <span class="small2">(졸업 예정)</span>
-> <span class="bold">신목고등학교</span> 졸업  |  2020.03 - 2023.02
->
+
 > ### Contact <span class="blue-small">연락처</span>
 >---
 > - Email &nbsp;&nbsp;<mailto:yenycall817@gmail.com>
@@ -166,21 +161,52 @@ order: 4
 > <span class="big">Design</span> | `Adobe Photoshop` `Adobe Illustrator` `Figma`
 
 
-## License <span class="blue-small">자격증</span>
-
+## Project History <span class="blue-small">프로젝트 이력</span>
 ---
 
-`ICDL` `GTQ` `ITQ`
+> ##### <span class="bold">E.S.C. (Emergency System Center)</span> 
+> <span class="small">팀 삐용삐용 (팀장) | 계원예술대학교</span> <br>
+> <span class="small2">2024.09 - 2024.11</span> <br>
+> [🔗 E.S.C.](https://emergency-system-center.github.io/ESC/)
+>
+> ---
+> 
+> <span class="bold">팀 구성 - 직책</span> | 디자인 3 / 개발 3 <br> 프로젝트 팀장 (디자인팀, 개발팀 총괄)
+> <span class="bold">담당 업무</span> | 앱 기획서 작성 / 디자인 피드백 및 제작 / 웹사이트 제작
+> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
+>
+> <span class="bold"><span class="blue3">[졸업 작품 : 최우수작 수상]</span> 구급대원을 위한 앱 서비스 기획 및 제작</span> <br>
+> <span class="small2">E.S.C.는 구급대원, 병원, 시민을 연결해 출동 개선과 업무 단순화를 지원하는 모바일 - 태블릿 기반 통합 응급 서비스 입니다.</span> <br>
+>
+> <span class="small">모바일</span> | <span class="small2">3가지 버전의 통합 앱 서비스 제작 (구급대원, 병원, 시민 ver)</span>
+> <span class="small">태블릿</span> | <span class="small2">기존 지령 웹패드 네비게이션 UI 리뉴얼 및 기능 추가</span>
+> <span class="small">웹 사이트</span> | <span class="small2">프로젝트 소개 웹 사이트 제작</span>
+>
+> <span class="small">배운 점</span><br>
+> <span class="small2">- Github를 활용한 HTML5, CSS, JS 페이지 빌드 과정과 cdn, gsap 등 플러그인, 라이브러리의 사용 방법에 대해 배웠습니다.</span> <br>
+> <span class="small2">- Figma를 이용한 앱 화면, 프로토타입 구현 및 협업 작업 참여를 통해 피그마 작업에 대해 배웠습니다.</span> <br>
+> <span class="small2">- 디자이너와 개발자의 역할을 함께 수행하며 디자인의 구현을 생각하고 디자이너와 개발자 모두가 효율적으로 작업할 수 있게 했습니다.</span> 
 
+<br>
 
-<span class="bold">ICDL</span> International Computer Driving License <br>
-<span class="gray">국제 IT 자격증 | 컴퓨터 활용 능력</span>
-
-<span class="bold">GTQ</span> Graphic Technology Qualification <br>
-<span class="gray">국가공인자격증 | 컴퓨터그래픽 디자인 능력, 포토샵</span>
-
-<span class="bold">ITQ</span> Information Technology Qualification <br>
-<span class="gray">국가공인자격증 | 한글, 파워포인트, 엑셀</span>
+> ##### <span class="bold">Busan BlueCore (부산 블루코어)</span> 
+> <span class="small">팀 카피바라 (팀장) | 계원예술대학교</span> <br>
+> <span class="small2">2024.03 - 2024.06</span> <br>
+> [🔗 Busan BlueCore](https://yenycall.github.io/bluecore/)
+>
+> ---
+> 
+> <span class="bold">팀 구성 - 직책</span> | 디자인 2 / 개발 1 <br> 프로젝트 팀장 (기획, 개발 총괄)
+> <span class="bold">담당 업무</span> | 기획서 작성, 웹 사이트 개발, 웹 디자인
+> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
+>
+> <span class="bold">[국제 커뮤니케이션 공모전 참여] <span class="blue3">부산 축제 브랜드 제작</span>을 통한 도시 리브랜딩</span> <br>
+> <span class="small2">부산 블루코어는 부산의 심장, 부산의 바다와 축제 문화를 대표하는 브랜드입니다.</span> <br>
+> 
+> <span class="small">배운 점</span><br>
+> <span class="small2">- Github를 활용한 HTML5, CSS, JS 페이지 빌드 과정과 cdn, gsap 등 플러그인, 라이브러리의 사용 방법에 대해 배웠습니다.</span> <br>
+> <span class="small2">- Figma를 이용한 앱 화면, 프로토타입 구현 및 협업 작업 참여를 통해 피그마 작업에 대해 배웠습니다.</span> <br>
+> <span class="small2">- 디자이너와 개발자의 역할을 함께 수행하며 디자인의 구현을 생각하고 디자이너와 개발자 모두가 효율적으로 작업할 수 있게 했습니다.</span> 
 
 
 ## Work History <span class="blue-small">직업 이력</span>
@@ -217,57 +243,27 @@ order: 4
 > <span class="bold">메가커피</span> 계원예대점 | 2024.09 - (재직 중)
 
 
-## Project <span class="blue-small">프로젝트 이력</span>
+## Education <span class="blue-small">학력</span>
 ---
 
-> ##### <span class="bold">E.S.C. (Emergency System Center)</span> 
-> <span class="small">팀 삐용삐용 (팀장) | 계원예술대학교</span> <br>
-> <span class="small2">2024.09 - 2024.11</span> <br>
-> [🔗 E.S.C.](https://emergency-system-center.github.io/ESC/)
->
-> ---
-> 
-> <span class="bold">팀 구성 - 직책</span> | 디자인 3 / 개발 3 <br> 프로젝트 팀장 (디자인팀, 개발팀 총괄)
-> <span class="bold">담당 업무</span> | 앱 기획서 작성 / 디자인 피드백 및 제작 / 웹사이트 제작
-> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
->
-> <span class="bold"><span class="blue3">[졸업 작품 : 최우수작 수상]</span> 구급대원을 위한 앱 서비스 기획 및 제작</span> <br>
-> <span class="small2">E.S.C.는 구급대원, 병원, 시민을 연결해 출동 개선과 업무 단순화를 지원하는 모바일 - 태블릿 기반 통합 응급 서비스 입니다.</span> <br>
->
-> <span class="small">모바일</span> | <span class="small2">3가지 버전의 통합 앱 서비스 제작 (구급대원, 병원, 시민 ver)</span>
-> <span class="small">태블릿</span> | <span class="small2">기존 지령 웹패드 네비게이션 UI 리뉴얼 및 기능 추가</span>
-> <span class="small">웹 사이트</span> | <span class="small2">프로젝트 소개 웹 사이트 제작</span>
->
-> <span class="small">배운 점</span><br>
-> <span class="small2">- Github를 활용한 HTML5, CSS, JS 페이지 빌드 과정과 cdn, gsap 등 플러그인, 라이브러리의 사용 방법에 대해 배웠습니다.</span> <br>
-> <span class="small2">- Figma를 이용한 앱 화면, 프로토타입 구현 및 협업 작업 참여를 통해 피그마 작업에 대해 배웠습니다.</span> <br>
-> <span class="small2">- 디자이너와 개발자의 역할을 함께 수행하며 디자인의 구현을 생각하며 디자이너와 개발자 모두가 효율적으로 작업할 수 있게 했습니다.</span> 
+<span class="bold">계원예술대학교</span> 재학 <br> <span class="small2">디지털미디어디자인 학과</span> | 2023.03 - 2025.06 <span class="small2">(졸업 예정)</span>
+ <span class="bold">신목고등학교</span> 졸업  |  2020.03 - 2023.02
 
-<br>
+## License <span class="blue-small">자격증</span>
 
-> ##### <span class="bold">Busan BlueCore (부산 블루코어)</span> 
-> <span class="small">팀 카피바라 (팀장) | 계원예술대학교</span> <br>
-> <span class="small2">2024.03 - 2024.06</span> <br>
-> [🔗 Busan BlueCore](https://yenycall.github.io/bluecore/)
->
-> ---
-> 
-> <span class="bold">팀 구성 - 직책</span> | 디자인 2 / 개발 1 <br> 프로젝트 팀장 (기획, 개발 총괄)
-> <span class="bold">담당 업무</span> | 기획서 작성, 웹 사이트 개발, 웹 디자인
-> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
->
-> <span class="bold">[국제 커뮤니케이션 공모전 참여] <span class="blue3">부산 축제 브랜드 제작</span>을 통한 도시 리브랜딩</span> <br>
-> <span class="small2">부산 블루코어는 부산의 심장, 부산의 바다와 축제 문화를 대표하는 브랜드입니다.</span> <br>
-> 
->
-> <span class="small">모바일</span> | <span class="small2">3가지 버전의 통합 앱 서비스 제작 (구급대원, 병원, 시민 ver)</span>
-> <span class="small">태블릿</span> | <span class="small2">기존 지령 웹패드 네비게이션 UI 리뉴얼 및 기능 추가</span>
-> <span class="small">웹 사이트</span> | <span class="small2">프로젝트 소개 웹 사이트 제작</span>
->
-> <span class="small">배운 점</span><br>
-> <span class="small2">- Github를 활용한 HTML5, CSS, JS 페이지 빌드 과정과 cdn, gsap 등 플러그인, 라이브러리의 사용 방법에 대해 배웠습니다.</span> <br>
-> <span class="small2">- Figma를 이용한 앱 화면, 프로토타입 구현 및 협업 작업 참여를 통해 피그마 작업에 대해 배웠습니다.</span> <br>
-> <span class="small2">- 디자이너와 개발자의 역할을 함께 수행하며 디자인의 구현을 생각하며 디자이너와 개발자 모두가 효율적으로 작업할 수 있게 했습니다.</span> 
+---
+
+`ICDL` `GTQ` `ITQ`
+
+
+<span class="bold">ICDL</span> International Computer Driving License <br>
+<span class="gray">국제 IT 자격증 | 컴퓨터 활용 능력</span>
+
+<span class="bold">GTQ</span> Graphic Technology Qualification <br>
+<span class="gray">국가공인자격증 | 컴퓨터그래픽 디자인 능력, 포토샵</span>
+
+<span class="bold">ITQ</span> Information Technology Qualification <br>
+<span class="gray">국가공인자격증 | 한글, 파워포인트, 엑셀</span>
 
 
 ## Resume <span class="blue-small">이력서</span>
