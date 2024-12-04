@@ -21,6 +21,7 @@
     position: relative;
     left: 2px;
     margin-left: -$timeline-width;
+    color: #3e5cf8;
 
     &::before {
       @extend %timeline;
