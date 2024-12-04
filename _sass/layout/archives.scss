@@ -110,9 +110,10 @@
     margin-left: 2.5rem;
     position: relative;
     top: 0.1rem;
+    color: var(--heading-color);
 
     &:hover {
-      border-bottom: none;
+      // border-bottom: none;
     }
 
     &::before {
