@@ -1,35 +1,28 @@
 ---
 layout: page
-# The Archives of posts.
 ---
 
-{% include lang.html %}
-
-{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
-{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
-
 <div id="archives" class="pl-xl-3">
-  {% for post in site.posts %}
-    {% assign cur_year = post.date | date: '%Y' %}
-
-    {% if cur_year != last_year %}
-      {% unless forloop.first %}</ul>{% endunless %}
-
-      <time class="year lead d-block">{{ cur_year }}</time>
-      {{ '<ul class="list-unstyled">' }}
-
-      {% assign last_year = cur_year %}
-    {% endif %}
-
+  <time class="year lead d-block">2024</time>
+  <ul class="list-unstyled">
     <li>
-      {% assign ts = post.date | date: '%s' %}
-      <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-        {{ post.date | date: df_strftime_m }}
-      </span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="date day">9月</span>
+      <span class="date month small text-muted ms-1">Sep</span>
+      <a href="https://emergency-system-center.github.io/ESC/">E.S.C.</a>
     </li>
+    <li>
+      <span class="date day">3月</span>
+      <span class="date month small text-muted ms-1">Mar</span>
+      <a href="https://yenycall.github.io/bluecore/">Busan BlueCore</a>
+    </li>
+  </ul>
 
-    {% if forloop.last %}</ul>{% endif %}
-  {% endfor %}
+  <time class="year lead d-block">2021</time>
+  <ul class="list-unstyled">
+    <li>
+      <span class="date day">4月</span>
+      <span class="date month small text-muted ms-1">Apr</span>
+      <a href="https://www.instagram.com/_nameme__/">Name Me</a>
+    </li>
+  </ul>
 </div>
