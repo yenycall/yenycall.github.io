@@ -152,7 +152,11 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
-theme_mode: light
+auto_dark_mode: true
+
+
+# theme_mode: light  # light (default), dark, or nil (자동)
+# darkmode: true    # 다크모드 토글 버튼 활성화
 
 # ------------ The following options are not recommended to be modified ------------------
 

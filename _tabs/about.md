@@ -37,6 +37,12 @@ order: 4
         font-size:1.15rem;
     }
 
+    .blue-big{
+        color: #3E5CF8;
+        font-weight: 700;
+        font-size:1.5rem;
+    }
+
     .big{
         font-weight: 500;
         font-size:1.15rem;
@@ -64,6 +70,12 @@ order: 4
         color: #3E5CF8;
         font-weight: 700;
         font-size: 1rem;
+    }
+
+    .blue-small2{
+        color: #3e5cf8;
+        font-size:0.9rem;
+        font-weight: 600;
     }
 
     .blue-bg{
@@ -164,23 +176,24 @@ order: 4
 ## Project History <span class="blue-small">프로젝트 이력</span>
 ---
 
-> ##### <span class="bold">E.S.C. (Emergency System Center)</span> 
-> <span class="small">팀 삐용삐용 (팀장) | 계원예술대학교</span> <br>
-> <span class="small2">2024.09 - 2024.11</span> <br>
+##### <span class="bold">E.S.C. (Emergency System Center)</span> 
+> <span class="small2">팀 삐용삐용 (팀장) | 계원예술대학교 | 2024.09 - 2024.11</span> <br>
 > [🔗 E.S.C.](https://emergency-system-center.github.io/ESC/)
 >
 > ---
 > 
-> <span class="bold">팀 구성 - 직책</span> | 디자인 3 / 개발 3 <br> 프로젝트 팀장 (디자인팀, 개발팀 총괄)
-> <span class="bold">담당 업무</span> | 앱 기획서 작성 / 디자인 피드백 및 제작 / 웹사이트 제작
-> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
+> <span class="small">팀 구성 - 직책</span> | <span class="small2">디자인 3 / 개발 3 <br> 프로젝트 팀장 (디자인팀, 개발팀 총괄)</span>
+> <span class="small">담당 업무</span> | <span class="small2">앱 기획서 작성 / 디자인 피드백 및 제작 / 웹사이트 제작</span>
+> <span class="small">작업 도구 및 환경</span> | <span class="small2">Github, HTML5, CSS, JS, Figma</span>
 >
+> <br>
 > <span class="bold"><span class="blue3">[졸업 작품 : 최우수작 수상]</span> 구급대원을 위한 앱 서비스 기획 및 제작</span> <br>
-> <span class="small2">E.S.C.는 구급대원, 병원, 시민을 연결해 출동 개선과 업무 단순화를 지원하는 모바일 - 태블릿 기반 통합 응급 서비스 입니다.</span> <br>
 >
-> <span class="small">모바일</span> | <span class="small2">3가지 버전의 통합 앱 서비스 제작 (구급대원, 병원, 시민 ver)</span>
-> <span class="small">태블릿</span> | <span class="small2">기존 지령 웹패드 네비게이션 UI 리뉴얼 및 기능 추가</span>
-> <span class="small">웹 사이트</span> | <span class="small2">프로젝트 소개 웹 사이트 제작</span>
+> <span class="small2">E.S.C.는 구급대원, 병원, 시민을 연결해 출동 개선과 업무 단순화를 지원하는 모바일 - 태블릿 기반 통합 응급 서비스 입니다.</span>
+> - <span class="small">모바일</span> <span class="small2">: 3가지 버전의 통합 앱 서비스 제작 (구급대원, 병원, 시민 ver)</span>
+> - <span class="small">태블릿</span> <span class="small2">: 기존 지령 웹패드 네비게이션 UI 리뉴얼 및 기능 추가</span>
+> - <span class="small">웹 사이트</span> <span class="small2">: 프로젝트 소개 웹 사이트 제작</span>
+> <br><br>
 >
 > <span class="small">배운 점</span><br>
 > <span class="small2">- Github를 활용한 HTML5, CSS, JS 페이지 빌드 과정과 cdn, gsap 등 플러그인, 라이브러리의 사용 방법에 대해 배웠습니다.</span> <br>
@@ -189,22 +202,24 @@ order: 4
 
 <br>
 
-> ##### <span class="bold">Busan BlueCore (부산 블루코어)</span> 
-> <span class="small">팀 카피바라 (팀장) | 계원예술대학교</span> <br>
-> <span class="small2">2024.03 - 2024.06</span> <br>
+##### <span class="bold">Busan BlueCore (부산 블루코어)</span> 
+> <span class="small2">팀 카피바라 (팀장) | 계원예술대학교 | 2024.03 - 2024.06</span> <br>
 > [🔗 Busan BlueCore](https://yenycall.github.io/bluecore/)
 >
 > ---
 > 
-> <span class="bold">팀 구성 - 직책</span> | 디자인 2 / 개발 1 <br> 프로젝트 팀장 (기획, 개발 총괄)
-> <span class="bold">담당 업무</span> | 기획서 작성, 웹 사이트 개발, 웹 디자인
-> <span class="bold">작업 도구 및 환경</span> | Github, HTML5, CSS, JS, Figma
+> <span class="small">팀 구성 - 직책</span> | <span class="small2">디자인 2 / 개발 1 <br> 프로젝트 팀장 (기획, 개발 총괄)</span>
+> <span class="small">담당 업무</span> | <span class="small2">기획서 작성, 웹 사이트 개발, 웹 디자인</span>
+> <span class="small">작업 도구 및 환경</span> | <span class="small2">Github, HTML5, CSS, JS, Figma</span>
 >
+><br>
 > <span class="bold">[국제 커뮤니케이션 공모전 참여] <span class="blue3">부산 축제 브랜드 제작</span>을 통한 도시 리브랜딩</span> <br>
+>
 > <span class="small2">부산 블루코어는 부산의 심장, 부산의 바다와 축제 문화를 대표하는 브랜드입니다.</span> <br>
 > <span class="small2">부산 축제의 유니크하고 일관된 시각적 아이덴티티를 구축하며 디지털 마케팅 전략 수립 및 국제적인 관심 확대를 목표로 하고 있습니다.</span> <br>
 > <span class="small2">브랜드 컨셉 모션 포스터, 로고, 다양한 굿즈(팔찌, 스티커, 지류 티켓, 모바일 티켓)제작</span> <br>
 >
+><br>
 > <span class="small">배운 점</span><br>
 > <span class="small2">- 다양한 CSS 활용을 통한 인터랙션 제작</span> <br>
 > <span class="small2">- 다양한 형식의 파일을 웹에 삼입 (영상, 모션 포스터 및 3D 파일)</span> <br>
@@ -212,9 +227,8 @@ order: 4
 
 <br>
 
-> ##### <span class="bold">비건 카페 창업 기획서</span> 
-> <span class="small">개인 프로젝트 | 계원예술대학교</span> <br>
-> <span class="small2">2024.03 - 2024.06</span> <br>
+##### <span class="bold">비건 카페 창업 기획서</span> 
+> <span class="small2">개인 프로젝트 | 계원예술대학교 | 2024.03 - 2024.06</span> <br>
 > [📁 Vegan Cafe_PDF](/assets/pdf/.pdf)
 >
 > ---
@@ -227,11 +241,14 @@ order: 4
 > <span class="small2">- 리서치 목록 (목차)</span> <br>
 > <span class="small2">- 최종 기획서 작성</span>
 >
+><br>
 > <span class="bold">[창업과 비지니스] <span class="blue3">비건을 위한, 모두를 위한</span> 옵션 세분화로 만들어가는 카페 문화</span> <br>
+>
 > <span class="small2">비건 소비자들의 카페 이용의 불편함을 해소하며 일반 사용자들 역시 건강한 라이프 스타일을 체험할 수 있는 서비스를 개발하고자 했습니다.</span> <br>
 > <span class="small2">다양한 사용자들에게 맞춤형 서비스를 제공하는 것을 중심으로 기획</span> <br>
 > <span class="small2">이에 맞는 카페 컨셉을 선정, 기존 카페를 벤치마킹함과 동시에 차별화 전략 등을 세우며 기존에서 변형된 새로운 창업 아이디어를 계획</span> <br>
 >
+><br>
 > <span class="small">배운 점</span><br>
 > <span class="small2">- 기획서에 들어가야 하는 필수항목들에 대해 직접 의미를 찾아보고 공부하며 기획자로서 프로젝트를 바라보는 시각을 길렀습니다.</span> <br>
 > <span class="small2">- 개인 창업 경험을 보완하며 자금소요 계획 및 목표 매출의 설정이 사업설계에 중요한 요인임을 배웠습니다.</span> <br>
@@ -239,20 +256,22 @@ order: 4
 ## Work History <span class="blue-small">직업 이력</span>
 ---
 
-> ##### <span class="bold">Name Me 네임미</span> 
-> <span class="blue3">[SNS 마켓을 활용한 문구류 개인 창업]</span> <br>
-> <span class="small2">2021.04 - 2022.01</span> <br>
+##### <span class="bold">Name Me 네임미</span> 
+> <span class="small2">개인 창업 | 2021.04 - 2022.01</span> <br>
 >[🔗 Name Me](https://www.instagram.com/_nameme__/)
 >
 > ---
 > 
-> <span class="bold">담당 업무</span> | 제품 상세기획 / 제품 디자인 / 제품 배송 및 유통 판매
-> <span class="bold">작업 도구 및 환경</span> | Photoshop, Procreate, Instagram, WitchForm
+> <span class="small">담당 업무</span> | <span class="small2">제품 상세기획 / 제품 디자인 / 제품 배송 및 유통 판매</span>
+> <span class="small">작업 도구 및 환경</span> | <span class="small2">Photoshop, Procreate, Instagram, WitchForm</span>
 >
-> <span class="bold">문구류 브랜드 "네임미" 브랜딩, <span class="blue3">인스타 마켓 개인 창업</span></span> <br>
+><br>
+> <span class="bold">문구류 브랜드 "네임미" 브랜딩, <span class="blue3">SNS 마켓을 활용한 문구류 개인 창업</span></span> <br>
+>
 > <span class="small2">개인 브랜드 제작 (브랜딩)</span> <br>
 > <span class="small2">제품(스터디플래너, 메모패드, 스티커 등)을 디자인하고 인스타그램을 통해 마케팅 및 판매 전체 총괄</span>
 >
+><br>
 > <span class="small">배운 점</span><br>
 > <span class="small2">- 개인창업으로 사업과정의 모든 업무를 담당했으며 브랜딩에 대해 자세히 배울 수 있는 계기가 되었습니다.</span> <br>
 > <span class="small2">- 사용자와 소통하는 법, 사용자가 원하는 디자인 등 사용자들의 니즈에 대해 고민하며 디자인을 하게 되었습니다.</span> <br>
@@ -261,13 +280,13 @@ order: 4
 
 <br>
 
-> ##### <span class="bold">아르바이트</span>
-> <span class="small2">[업무 : 음료 제조 / 손님 응대 / 마감 청소]</span>
-> 
+##### <span class="bold">아르바이트</span>
+> <span class="small2">[2023 ~] 장기 근무, 성실함</span> 
+>
 > ---
 >
-> <span class="bold">컴포즈커피</span> 오금교점 | 2023.03 - 2024.08
-> <span class="bold">메가커피</span> 계원예대점 | 2024.09 - (재직 중)
+> <span class="small">컴포즈커피</span> <span class="small2">오금교점</span> | <span class="small2">2023.03 - 2024.08</span>
+> <span class="small">메가커피</span> <span class="small2">계원예대점</span> | <span class="small2">2024.09 - (재직 중)</span>
 
 
 ## Education <span class="blue-small">학력</span>
@@ -280,17 +299,12 @@ order: 4
 
 ---
 
-`ICDL` `GTQ` `ITQ`
+- `ICDL` `GTQ` `ITQ`
 
 
-<span class="bold">ICDL</span> International Computer Driving License <br>
-<span class="gray">국제 IT 자격증 | 컴퓨터 활용 능력</span>
-
-<span class="bold">GTQ</span> Graphic Technology Qualification <br>
-<span class="gray">국가공인자격증 | 컴퓨터그래픽 디자인 능력, 포토샵</span>
-
-<span class="bold">ITQ</span> Information Technology Qualification <br>
-<span class="gray">국가공인자격증 | 한글, 파워포인트, 엑셀</span>
+<span class="bold">ICDL</span> | <span class="small2">국제 IT 자격증</span> | <span class="small2"> 컴퓨터 활용 능력</span>
+<span class="bold">GTQ </span> | <span class="small2">국가공인자격증</span> | <span class="small2">컴퓨터그래픽 디자인 능력, 포토샵</span>
+<span class="bold">ITQ</span> | <span class="small2">국가공인자격증</span> | <span class="small2">한글, 파워포인트, 엑셀</span>
 
 
 ## Resume <span class="blue-small">이력서</span>
